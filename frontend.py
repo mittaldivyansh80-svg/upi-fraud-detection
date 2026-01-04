@@ -40,7 +40,7 @@ if st.button("Check Fraud Risk"):
 
     try:
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://upi-fraud-detection-nzf5.onrender.com/predict",
             json=payload,
             timeout=5
         )
