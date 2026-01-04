@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 
 # Load trained model
-with open("model.pkl", "rb") as f:
+with open("backend/model.pkl", "rb") as f:
     model = pickle.load(f)
 
 app = FastAPI(title="UPI Fraud Detection API")
