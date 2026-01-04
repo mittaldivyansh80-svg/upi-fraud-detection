@@ -1,2 +1,7 @@
-# upi-fraud-detection
-AI-based UPI fraud detection system using machine learning and FastAPI with a Streamlit frontend.
+# 🔐 AI-Based UPI Fraud Detection System
+
+## 🌐 Live Demo
+🚀 Try the live app here:  
+👉 https://upi-fraud-detection-jp7ljfxbhyq7sjexy2mejt.streamlit.app
+
+---
